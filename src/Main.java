@@ -6,6 +6,6 @@ public class Main {
     }
     public static void anotherMethod() {
         System.out.println("Also Another method");
-        System.out.println("and 2nd another method");
+        System.out.println("AND 2nd another method");
     }
 }

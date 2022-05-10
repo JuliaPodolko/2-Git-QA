@@ -3,4 +3,7 @@ public class Main {
         System.out.println("Hello, QA.Guru!");
         System.out.println("Another");
     }
+    public static void another() {
+        System.out.println("Another method");
+    }
 }

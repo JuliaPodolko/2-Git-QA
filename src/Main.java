@@ -4,7 +4,8 @@ public class Main {
         System.out.println("Another");
         System.out.println("Slow");
     }
-    public static void another() {
-        System.out.println("Another method");
+    public static void anotherMethod() {
+        System.out.println("Also Another method");
+        System.out.println("and 2nd another method");
     }
 }
